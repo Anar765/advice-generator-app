@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Anar765/advice-generator-app)
-- Live Site URL: (https://advice-generator-app-azure-seven.vercel.app
+- Live Site URL: (https://advice-generator-app-azure-seven.vercel.app)
 
 ## My process
 
